@@ -1,4 +1,4 @@
-# PyTorch and Supervised Learning: Gradient Descent and Stochastic Gradient Descent
+# PyTorch and Supervised Learning  : Gradient Descent and Stochastic Gradient Descent
 
 This project showcases the implementation of supervised learning using PyTorch framework and the concepts of gradient descent and stochastic gradient descent.
 
